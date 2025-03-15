@@ -32,7 +32,7 @@ A pasta `assets` contém todos os arquivos de mídia e código utilizados no sit
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_do_repositório>
+   git clone <(https://github.com/Wallaceoll/challengeAmigoSecreto.git)>
    
 2. Navegue até a pasta do projeto: challengeAmigoSecreto e abra no seu navegado para conseguir interagir com a aplicação.
 
